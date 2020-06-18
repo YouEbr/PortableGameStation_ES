@@ -25,13 +25,14 @@ How to use:
 
 3- The directory structure should have following: (Windows explorer does not show ".lnk" extensions, instead it shows them as shortcut folders)
 
-+---PortableGameStation_ES
-|   \---EmulationStation
-|   \---Emulators.lnk
-|   \---Games.lnk
-|   \---Bios.lnk
-|   \---Launch.bat
-|   \---scraper.bat
++---PortableGameStation_ES</br>
+|&nbsp;   &nbsp;   &nbsp; \\---EmulationStation</br>
+|&nbsp;   &nbsp;   &nbsp; \\---Emulators.lnk</br>
+|&nbsp;   &nbsp;   &nbsp; \\---Games.lnk</br>
+|&nbsp;   &nbsp;   &nbsp; \\---Bios.lnk</br>
+|&nbsp;   &nbsp;   &nbsp; \\---Launch.bat</br>
+|&nbsp;   &nbsp;   &nbsp; \\---scraper.bat</br>
+
 
 4-Emulators, Games, and Bios are shortcuts (links).
 
