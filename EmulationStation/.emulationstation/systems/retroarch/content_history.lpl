@@ -1,0 +1,403 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Silent Hill (USA).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Resident Evil 3 - Nemesis (USA).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Leon).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Resident Evil - Director's Cut - Dual Shock Ver. (USA).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Parasite Eve II (USA) (Disc 2).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Parasite Eve II (USA) (Disc 1).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Parasite Eve (USA) (Disc 1).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Parasite Eve (USA) (Disc 2).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Legacy of Kain - Soul Reaver (E) [SLES-01301].cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Galerians (USA) (Disc 3).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Galerians (USA) (Disc 2).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Galerians (USA) (Disc 1).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\City of Lost Children, The (USA) (En,Es,It).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue II (Europe) (En,Fr,De,Es) (Disc 4).gdi",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue II (Europe) (En,Fr,De,Es) (Disc 3).gdi",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue II (Europe) (En,Fr,De,Es) (Disc 2).gdi",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue (USA) (Disc 3).gdi",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue (USA) (Disc 2).gdi",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue II (Europe) (En,Fr,De,Es) (Disc 1).gdi",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue (USA) (Disc 1).gdi",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Legacy of Kain - Soul Reaver (E) [SLES-01301].chd",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Parasite Eve (USA) (Disc 1).chd",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Silent Hill (USA).chd",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue II (Europe) (En,Fr,De,Es) (Disc 1).chd",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue (USA) (Disc 2).chd",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue (USA) (Disc 1).chd",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\psx\\Silent Hill (USA).chd",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\nes\\Double Dragon III - The Sacred Stones (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\roms\\nes\\Super Mario.zip",
+      "label": "",
+      "core_path": "D:\\Games\\Portable_Game_Station_ES_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Sting.nes",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Super Mario Bros. 3 (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Super Mario Bros. (World).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Super Mario Bros. 2 (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Super Mario Bros. (Japan, USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Super Mario.nes",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Double Dragon III - The Sacred Stones (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\n64\\Legend of Zelda, The - Majora's Mask (USA).n64",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\mupen64plus_libretro.dll",
+      "core_name": "Nintendo 64 (Mupen64Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\atari2600\\River Raid (1982) (Activision, Carol Shaw) (AX-020, AX-020-04).bin",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\stella_libretro.dll",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Battletoads-Double Dragon (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Double Dragon (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\megadrive\\Bare Knuckle - Ikari no Tetsuken _ Streets of Rage (World).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Contra Force (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\genesis\\Michael Jackson's Moonwalker (World) (Rev A).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\genesis\\mwalk.zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\genesis\\Comix Zone (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\genesis_plus_gx_libretro.dll",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\dreamcast\\Shenmue (USA) (Disc 1).gdi",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\flycast_libretro.dll",
+      "core_name": "Sega - Dreamcast/NAOMI (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\psx\\Silent Hill (USA).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_hw_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\psx\\Silent Hill (USA).cue",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\mednafen_psx_libretro.dll",
+      "core_name": "Sony - PlayStation (Beetle PSX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "D:\\Games\\Retro_U3F\\.emulationstation\\roms\\nes\\Contra (USA).zip",
+      "label": "",
+      "core_path": "D:\\Games\\Retro_U3F\\.emulationstation\\systems\\retroarch\\cores\\nestopia_libretro.dll",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

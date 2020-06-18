@@ -1,0 +1,11 @@
+shaders = 3
+shader0 = ../stock.glsl
+scale_type0 = source
+scale0 = 4.0
+shader1 = color-grid.glsl
+shader2 = border.glsl
+
+parameters = "border_on_top;box_scale;CGPFACTOR;ZOOM"
+border_on_top = 0.0
+CGPFACTOR = 4.0
+ZOOM = 10.0
